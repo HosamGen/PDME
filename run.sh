@@ -1,0 +1,1 @@
+python3 main.py --init_image="input_images/apple_on_plate.jpg" --mask_prompt="the apple" --prompt="a delicious orange" --lavt_weights="LAVT_RIS/checkpoints/refcoco.pth" --output_path="orangey_base" --batch_size=1 --skip_timesteps=5 --clip_guidance_lambda=1250 --lpips_sim_lambda=800 --l2_sim_lambda=6000 --vid
