@@ -1,5 +1,5 @@
 # PDME
-Prompt-Driven Masked Editing for Images
+## Prompt-Driven Masked Editing for Images
 
 Project for AI702: Deep Learning at MBZUAI !
 
