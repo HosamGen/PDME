@@ -3,6 +3,13 @@
 
 Project for AI702: Deep Learning at MBZUAI !
 
+Preserving the background of images while making localised edits using text-
+prompted generative models for visual content remains a challenge for current
+high-quality, state-of-the-art algorithms. In this project, we explore the potential
+of combining two promising but separate technologies for automatically defining
+desired image regions and making highly localised edits within them by generating
+new pixel-space image content based only on text prompts.
+
 To set up this repository, please first install the required libraries listed in "requirements.txt".
 The system used in development is Ubuntu 22.04 with CUDA Toolkit 11.7
 
